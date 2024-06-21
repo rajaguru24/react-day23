@@ -237,7 +237,7 @@ function Cart() {
       <footer className="bg-dark py-5">
         <div className="container">
           <p className="text-white text-center">
-            Copyright © Your Website 2023
+            Copyright © Your Website 2024
           </p>
         </div>
       </footer>

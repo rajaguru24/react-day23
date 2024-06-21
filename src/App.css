@@ -1,5 +1,6 @@
-#root {
+/* #root {
   max-width: 1280px;
+  margin: 0 auto;
   padding: 2rem;
   text-align: center;
 }
@@ -33,25 +34,9 @@
 }
 
 .card {
-background-color: aqua;
-grid-row: 100px;
-border: 50px;
-margin: 100px;
-border-radius: 5px;
-padding: 30px;
+  padding: 2em;
 }
 
 .read-the-docs {
   color: #888;
-}
-.Cart-container{
-  padding: 5px;
-  border: 1px solid darkred;
-  margin :5px ;
-
-}
-.container{
-  display: flex;
-  gap:5px;
-
-}
+} */
